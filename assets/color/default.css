@@ -1,16 +1,16 @@
 ::-moz-selection {
-  background: #5C9F24;
+  background: #D0C8C7;
 }
 ::selection {
-  background: #5C9F24;
+  background: #D0C8C7;
 }
 
 a {
-  color: #5C9F24;
+  color: #D0C8C7;
 }
 
 a:hover {
-	color: #33782D;
+	color: #D0C8C7;
 }
 
 /* --- button theme --- */
@@ -24,8 +24,9 @@ a:hover {
 .btn-theme.active,
 .btn-theme.disabled,
 .btn-theme[disabled] {
-  background: #33782D;
-  *background: #33782D;
+  background: #D0C8C7;
+  
+  *background: #D0C8C7;
 }
 
 .scrollup {
